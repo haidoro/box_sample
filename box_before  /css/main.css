@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.box-a{
+    background-color: rgba(255, 0, 0, 0.15);
+}
+
+.box-b{
+    background-color: rgba(0, 255, 0, 0.15);
+}
+
+.box-c{
+    background-color: rgba(0, 0, 255, 0.15);
+}

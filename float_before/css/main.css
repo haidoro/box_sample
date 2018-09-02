@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.container{
+  width:1000px;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+.header{
+  padding: 20px;
+  background-color: rgba(255, 0, 255, 0.35);
+}
+
+.side{
+
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.35);
+}
+.main{
+
+  padding: 20px;
+  background-color: rgba(0, 255, 255, 0.35);
+}
+.footer{
+  
+  padding: 20px;
+  background-color: rgba(0, 0, 255, 0.35);
+}
