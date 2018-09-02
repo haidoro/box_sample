@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.box-a,
+.box-b,
+.box-c{
+    width:300px;
+    height:300px;
+    padding:10px;
+    margin:10px auto;
+    border:1px solid #fff;
+    text-align: center;
+}
+
+.box-a{
+    background-color: rgba(255, 0, 0, 0.15);
+    float:left;
+}
+
+.box-b{
+    background-color: rgba(0, 255, 0, 0.15);
+    float:left;
+}
+
+.box-c{
+    background-color: rgba(0, 0, 255, 0.15);
+    float:left;
+}
